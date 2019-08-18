@@ -3,7 +3,7 @@ import org.junit.Test;
 import static junit.framework.Assert.assertTrue;
 
 /**
- * @author Petri Kainulainen
+ * @author Vikash Singh
  */
 public class ITDummyTest {
 
